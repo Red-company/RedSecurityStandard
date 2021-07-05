@@ -1,3 +1,4 @@
+![plot](./ResultGit.jpg)
 # RedSecurityStandart
 
 ## Info
