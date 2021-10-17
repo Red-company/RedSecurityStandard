@@ -23,6 +23,8 @@ Email plan:
 6) Proof of a good reputation
 7) Contacts
 
+* Some projects become members without any requests.
+
 # Member list
 
 | member-id | name | site |
