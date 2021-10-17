@@ -11,7 +11,7 @@ RedSecurityStandartTeam is uses to certificate that program/service/... is secur
 
 ## How to get in?
 
-If you're interested in being a part of the Red, you're welcome to write us(you can find email at [the official page of Red](https://github.com/Red-company)).
+If you're interested in being a part of the Red, you're welcome to write us(you can find email at [the github page of Red](https://github.com/Red-company)).
 
 Email plan:
 
