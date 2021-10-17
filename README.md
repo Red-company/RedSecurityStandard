@@ -1,7 +1,7 @@
 ![plot](./ResultGit.jpg)
 # RedSecurityStandart
 
-## WARNING: This page is not finished.
+## WARNING: This page is not finished yet.
 
 ## Info
 
