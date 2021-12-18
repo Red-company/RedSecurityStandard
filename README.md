@@ -1,5 +1,5 @@
 ![plot](./ResultGit.jpg)
-# 👑 RedSecurityStandart (معيار الأمان ريد)
+# 👑 RedSecurityStandard (معيار الأمان ريد)
 
 ## WARNING: This page is not finished yet.
 
