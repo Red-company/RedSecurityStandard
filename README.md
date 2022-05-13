@@ -36,3 +36,6 @@ Email plan:
 | rst-00000003 | _RedNetwork Tool_ | https://github.com/Red-company/RedNetwork_Tool |
 | rst-00000004 | _DBeaver_ | https://github.com/dbeaver/dbeaver |
 | rst-00000005 | _TailsOS_ | https://gitlab.tails.boum.org/tails/tails |
+| rst-00000006 | _DupeGuru_ | https://github.com/arsenetar/dupeguru |
+| rst-00000007 | _MonitorControl_ | https://github.com/MonitorControl/MonitorControl |
+| rst-00000008 | _FruityUI_ | https://github.com/FruityRazer/FruityUI |
